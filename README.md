@@ -17,3 +17,9 @@ Open issues (use the repository issues) to report missing/incorrect parts, or ne
 ### 2024.04.20
 
 - First version released.
+
+## License
+
+Copyright © 2024, Devrim Çavuşoğlu. All rights reserved.
+
+This presentation template prepared is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
