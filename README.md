@@ -12,7 +12,9 @@ Open issues (use the repository issues) to report missing/incorrect parts, or ne
 
 ### 2024.04.27
 
-- A page/slide for attribution is added.
+- The page title "License and Attribution" changed to "License".
+- A new page titled "Attribution" is added for easier attribution notice.
+- A sentence describing the default attribution notice is added to the page titled "License" as "For attribution refer to the Attribution page (Page no 11).".
 
 ### 2024.04.21
 
