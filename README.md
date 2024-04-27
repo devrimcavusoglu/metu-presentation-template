@@ -10,6 +10,10 @@ Open issues (use the repository issues) to report missing/incorrect parts, or ne
 
 ## Changelog
 
+### 2024.04.27
+
+- A page/slide for attribution is added.
+
 ### 2024.04.21
 
 - A slide for References is added to the template.
